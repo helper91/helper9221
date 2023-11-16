@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Stephens",
+  "age": 44,
+  "address": {
+    "street": "Igukin Path",
+    "city": "Posibhe",
+    "state": "IN",
+    "zip": "20866"
+  },
+  "contact": {
+    "phone": "(423) 433-1838",
+    "servicePhone": "800846147"
+  },
+  "birthday": "2001-07-18T02:48:01.643Z",
+  "ip": "5.228.111.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Bacurju vucmu fecluw fuve georzeg kevotvib keavvos mal ena woez mahlapel ib. Ivri odceeg ire ijazi sufjesel gi cu leipo bewhija ariliaso zaboz kej. Aweifiten vezezomi jan ribuhi fonokfog jifi pilgoza mihah de pip kep fosut binjo cogir. Parducmah rickutij remo sesatu ve moov nu decwosgil vup cu raiwsug vovrel dertedaca wibuhak vodvus lel. Sewagfik viconmev ziurte ce sevbole pus bimatjar op atboave wiveloz ton tuhulo. Kac demuje ut ahiasdu af fuga fusa zolavon icele jerejhar ginedzu fujupwip boitbe.",
+    "bio": "Lumalep wa cer kuh juhhoc as te dol vur ovume er iw. Jo dodiw amu lo hide vujugo rak kokcu sigba ife idomoc cefenav zicaf rolsap zibzijwo mo. Gokwu cif rewhemkun cobpedjic div alamoduw umutiuge okeip lagbibam bekwe er wiiwe somoslor lum obhiku ev gore."
+  },
+  "apiKey": "b4f261c3b9b6613393dcb4b3d032689f6257177b6716e24cc66d0ef937c7722d",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
