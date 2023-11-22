@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Greene",
+  "age": 50,
+  "address": {
+    "street": "Lurset Avenue",
+    "city": "Kibaak",
+    "state": "MO",
+    "zip": "81839"
+  },
+  "contact": {
+    "phone": "(543) 251-5909",
+    "servicePhone": "800687284"
+  },
+  "birthday": "1986-05-08T10:18:36.009Z",
+  "ip": "189.230.226.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa za adeca rajoli ag monoso cet peroj ji omgam cama epuufe li ma miavaso te fikira. Zadvupa wod tefhi cuknen der kos setmofvos tufmuvkuz eseomu uteve hemawbe ja nu dir pim vuziuse upke. Hutezvus davera uf uwa daguveno do kugvugo ihu ukjoron uwibece adiav ca bibkawgi welvildu de falo en.",
+    "bio": "Cezzoci upaha basoj ru ti disozjad uwnalguh tegfazho ladig citojvis se kus mi nilhaol va. Siaf va us ecsib jignoh ezmi za ohepiejo geonkip zimi rajolo nazwige. Hargakcer cuhuh jawfara fatukak be guhigos ifo jijo wik kimusbar vamazlot bomdu dokra rik vigene rebe cuchi mamba."
+  },
+  "apiKey": "b1125caa19348f34b198e09b96c6e8e20e16520b94e086001227ac7c796cf0e1",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
