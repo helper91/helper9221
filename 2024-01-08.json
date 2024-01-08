@@ -1,0 +1,26 @@
+{
+  "name": "Sue Reyes",
+  "age": 23,
+  "address": {
+    "street": "Danal Plaza",
+    "city": "Zuglutuc",
+    "state": "IA",
+    "zip": "12671"
+  },
+  "contact": {
+    "phone": "(229) 686-7008",
+    "servicePhone": "800519892"
+  },
+  "birthday": "1993-05-15T14:12:39.910Z",
+  "ip": "10.96.137.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Kipu mowhu zuz cimfoz asukiwoc sositpop mumuv zalzef hiwwag enulo gaclez livijpud ozsadcu. Fekamzob hil ronte of dumi vo cobe middioka sofijveg hurku cedtive adjun modgog. Tusod dalgon higufow bein widoruti ce raisteh tucsoz fogep bipikgen hudbi puwlozri pe to kelukiti paz. Ona kejtufpi av juric kugevuv afpo ekiifa vonfize wamepit fuuzmez hejga gelba kenofe.",
+    "bio": "Ofuwa ivaconew te rehno jek zah ami pu piciva ridaf bagku hefijo oluhuzvo uluago niowesol holpekah zebivu. Kog citro ud iduwimo zemhe govic poc weltaufi gem hom gaewaomo dibtapod olohoso go mepzanod. Vatzas gigvozeb hoce epowobhu ava gad so idte davho hakofew omiazo daw japlubfa."
+  },
+  "apiKey": "3166e50a7b66ef2ba779a3bfbdde4a2e28348aaa1e1842a3f3ab58e85272bfcf",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
