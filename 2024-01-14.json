@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Mullins",
+  "age": 33,
+  "address": {
+    "street": "Emto Loop",
+    "city": "Lebovmiv",
+    "state": "IN",
+    "zip": "41789"
+  },
+  "contact": {
+    "phone": "(378) 668-3041",
+    "servicePhone": "800417826"
+  },
+  "birthday": "1979-05-16T01:41:43.170Z",
+  "ip": "119.223.158.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Kir rud casziet naaka wat fo kopdal ulato zigame habid luk arzarom imejear saat kocu jikzekvi. Mic bifu wu vobermo sep ce uh vebuju cowhupat ma zevrir wojrebgi po vufkel hikvi. Imevo no osi culko sopco zuthifa wuh zinisi futop ge cocoh mu udead ujebobgu ucuva mi boswi.",
+    "bio": "Wene ramupa etcu letuhapi uvji oc subdom liovron pojicli bukudo etiotbol pow metnuv za vufoz. Gi bud akooresu vu ta ajvub hehi nejec pik ruhputu san zeoni. Muhel nu sil bebej ivanil eleruoh fiweluv ejmun zucowes ge pudkicej zipzoej kehegpow. Pos egohute vausuog zilurijiv maid icapeemo debifapo jado riluzot bigjalu wen jibu ijrufvu votsu gi ti lomukem namoti."
+  },
+  "apiKey": "7aed422be614a63e16973411fb3e91f8bc1844ce0d635556445299ab90b34fde",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
