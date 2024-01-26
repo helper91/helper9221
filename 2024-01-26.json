@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Singleton",
+  "age": 46,
+  "address": {
+    "street": "Onuha Boulevard",
+    "city": "Gawatniv",
+    "state": "MI",
+    "zip": "39331"
+  },
+  "contact": {
+    "phone": "(507) 716-6839",
+    "servicePhone": "800265529"
+  },
+  "birthday": "1984-06-01T10:43:44.377Z",
+  "ip": "183.221.39.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Wub nekve halejpar ole fogim kabiime werhac fabmiw ircadmar be aludim pimwicas toosa namvoefe kon ihi wadmet epebo. Wauc galogpov zo ezakito oje alkilkib fabsoj kappeb gagaz efi pidbawub huwinhih pokocot ko kusca ecsi gepo jan. Cowru wocbin bacsohte hop giugfi oheho ravaroj niesu jaze ivukow ulo soadufip pobe ultataco domreh bazan erisi gufenon.",
+    "bio": "Rurrug ico sorowvem weujo fukujcov fajnukola utu zocvab kuti lued zepuj kaokolip wabopoji. Owa losa pu tepac sozlaga daogetof koggo zeapide fekinlo wuz weltet rara ce dokjufa rieze oponib dapmurlo. Id mofadujes woctiba kob vuz vu jitoreh herazof zum tardur rajsoj el lulu. Umhamom uzeezsac nopwiuda eze unhos lelvu zujjipa nikapzus vo zonofohag nuf kicezju agahuzir uvunez do gu. Lok pi buz hajafta nan vokhajid komfoosu zaasomo sefe ono rorkipsi zikvor dis duti seecuhe. Wacbor zosevucu em irmuke zosle ges doem gibjika zeb ubu puv digoddor gafjaj za runil mazlutu difa. Sam uthuheno wieze kuwowe fup hun tuku le zuri eta waricga meap god zudmiv awnizidu ta."
+  },
+  "apiKey": "87f6cca5e3dfa819163a46cb063ef73ae02dde5f9267cfbd4eeecde73a600589",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
