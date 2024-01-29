@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Perkins",
+  "age": 56,
+  "address": {
+    "street": "Werko View",
+    "city": "Riritibut",
+    "state": "ID",
+    "zip": "95372"
+  },
+  "contact": {
+    "phone": "(856) 493-7198",
+    "servicePhone": "800428411"
+  },
+  "birthday": "2006-11-02T12:08:45.017Z",
+  "ip": "21.146.254.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti unibu pag zegdulbek zumim acisef gehvun sut kitzop nivod osho ga. Fasage iwona mi nigve so lo fil kiw deasiji at gimta waguz. Mibocdek vulu lorhu kugti fadwe upokemwuj veka livohem uveig secmaw cowetiv cevug ba vi wutu ve eceto cazvofif.",
+    "bio": "Oki lid lerfunit uja usavucat majow tacvik jaj ugobok to jagve teid upuhowe sel ofecrik. Vi hiremu pilmi do wu ecauj fewuwi suiwiw wi fened mehbagog nu fih uwvi. Padme zafu fevle cok mohebol ib lucwotso honcewke penaal furceug neabbar arjuku febucaj wi buh. Panra metorla ewi su edoguhub ijkusuv vicaja oswor burak rekgohge madpil bihuzuho. Ih de res leditwob wubak hu paf tubu rophu reh baf jogezok ji dafez goklupdi. Jikes fujukus di gekat mialoavu zi nouna pet odrueco uspot azocojmib one. Bagivo ujtew jecu edja bo iv semu ugaijni gigbiva wubigvev majelga zijzusvon wib nuas tifoze ufoudver canikegi fuzni."
+  },
+  "apiKey": "f694eccddbd2f3bc996460d3482f285cbecea955de024f2ef8a46c7afd33d436",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
