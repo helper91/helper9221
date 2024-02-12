@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Phelps",
+  "age": 33,
+  "address": {
+    "street": "Fior Park",
+    "city": "Cofejdob",
+    "state": "IN",
+    "zip": "32859"
+  },
+  "contact": {
+    "phone": "(422) 691-7856",
+    "servicePhone": "800541178"
+  },
+  "birthday": "1971-11-20T10:11:28.988Z",
+  "ip": "122.127.210.12",
+  "foo": "bar",
+  "profile": {
+    "about": "De jivso lakevo bosta juvotka daznekita pu lujzegeb aruenfi tiv wurifmec dowmekogi uwi ewaar. Leg juoz wut kusak isfoh akivu hizbomwod eb ropko zakcasmek gawakvo liobi ewiafa. Zewbojap wuir ureicoves ado zafsewvis mamnarne kunowa erecog bam begog ziobedum vilwuco hoz deniju dom si. Gi ta vituw lu za min vo ijanoc sejumlol vefrohtu sa lukpor cu ovahevud konbip cevsi udko. Nuizudo rotujva vo abu nigraaka narmawo ajeru elcalaj lod no aziora galo. Ri sesna fuugiel lizut li ifefufa ufe regla repjo izurotun ef avez raz wi. Pavucuh lekfiv ki awgur zesojkok roc mivuso petbu amanelec fe amo kahtol ohmupawi.",
+    "bio": "Vefcil fonivemu faw mu jemkekwif dog sogadela walfadaha onucu su lune cenubew kaimsi aznivulo gimpan. Ta ri coegovo uhu be begpos isuvib gut vuk feto nelveda gaes ellem suedpag fob pu. Va zezuite go idifioc zezi ku gap jih ilpaveb tudde kevlokog duthu abaova koadog vuttihci lu fepfegob."
+  },
+  "apiKey": "dd5844a7ae60748cd4c16168ef0331a02dbe162f6f2535cfec3bab6ccfd69c4c",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
