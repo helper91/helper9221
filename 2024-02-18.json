@@ -1,0 +1,26 @@
+{
+  "name": "Lela Colon",
+  "age": 46,
+  "address": {
+    "street": "Jolun Park",
+    "city": "Vopiwte",
+    "state": "MA",
+    "zip": "98268"
+  },
+  "contact": {
+    "phone": "(826) 303-1047",
+    "servicePhone": "800428686"
+  },
+  "birthday": "2004-11-04T18:26:17.977Z",
+  "ip": "132.16.15.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Aji ojhof iz okum bap fatsezi vogloote aboceh dula busejo ajna rezcum uwojalra peb gug. Wapnive fit osgid ba nas ra zelumjo afmul de tuohte avvu gimsap. Gom onbel rervik be ca raiw ub jan gi nagkefu jocakor jos parigu ip fawuwci gijlipvi nu.",
+    "bio": "Ifup feubiruz uwadopahe bogajab tar udori nupfowto ku zu temobli upfemi sibbedeg nif rale su. Ofojam buan tukweajo jucbiclo om ijig na uwamini okeokwop pifhig la jujsazje pebe pifueru mebugvu dacbu ol. Vis kuikur ozianoj rakco umi rifgembu cewbidwil woc rono fazut nid zugsola isapifaka ewotis seca duplavuv cakinge."
+  },
+  "apiKey": "5962f31f00b3b0c68da0f9cca213112d483bd477bae4c7a897244ff894c8ac5d",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
