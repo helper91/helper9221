@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Munoz",
+  "age": 65,
+  "address": {
+    "street": "Lawig Way",
+    "city": "Ijzulte",
+    "state": "MI",
+    "zip": "04355"
+  },
+  "contact": {
+    "phone": "(619) 851-7755",
+    "servicePhone": "800743942"
+  },
+  "birthday": "1960-10-17T11:42:15.222Z",
+  "ip": "98.204.130.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Haano akejjiv cusgiosu paved pebos hikojom sikuujo puwkave furde bemove rouvi tarvo cib ka duja. Ipi ha cuher cof piznah fuffij mezberif kovlem conle dewvu vaisub ma kaihi zuvhukjuh vosobuho. Zaefu ifafe mosvez gowlik ode ahzanu fu utowa liipi elvovwi win mo ha kow. Mejsi hundaek razjukano fufig hofzur wersacefi wimpatit epe zam pilnuksu daja pi.",
+    "bio": "Nanigu tihisugir hi diago ecjaoka imof gujdimumu wesniru motvochor zuf erjad soddapzo hos guhteh lamefco ocu utwoghud depsir. Negouh igarji niaseud mikuh petsuj icizolhan bu totlaser edwu ladsam ufi pih ve. Weujuj ej li hassev goukro zulenze nulimmuc zegtewi jakizir zecunahe wi anakurut jougpob ma guzkuwlak rumezfu. Hututsim refgu in bivlo faz wogkeho ludfic tofne riul jib ukuozuv cimocec giulvak. Zutod tujosaf ruf dov cirfe zirom wa acucu aju pevet hocrazal baharnab. Vija ni um ugza ses bofacec ice le pajvu gor hawo la welpuw runum zedapep radfe ho."
+  },
+  "apiKey": "27dda9de9ea87257dc3e763b0126feaeaa4a99fd25b485d21668264f7fe42f0a",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
