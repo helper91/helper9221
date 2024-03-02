@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Vega",
+  "age": 50,
+  "address": {
+    "street": "Zorta Pass",
+    "city": "Niozozol",
+    "state": "NY",
+    "zip": "02533"
+  },
+  "contact": {
+    "phone": "(826) 689-7249",
+    "servicePhone": "800154828"
+  },
+  "birthday": "1997-01-24T23:19:43.987Z",
+  "ip": "62.134.42.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu fez om tajomka gad wibil bu birut bejafu gek azajeju pa dit hik cihlacle. Fi ofle fihiw wopeus kafoz lek adpim kigah oldalgi duffu boevmi uhebe eh ta tunowzu huh. Wo dutki jakolocal zoncuca facom so didahen ho zik du pe uho isavos.",
+    "bio": "Azodekwi ed ko nouc fe uva maif badzol enuvav evsemu keh re haw fedazar jid. Ciw get ziso vimawgu sobeko etisoj fi jatkudmi inabitkaw etlocpoz bupufwup jis je cat honubhe volzekmug ruwlitnig ra. Ruje lumpa necjat wihcah udika jok vosu arbakev hur hijuf jotfid lal im osuvah pi ki wazlaisa bedop. Nilviaz revul saosuza ziscut cabas paj of dirim tooftet zom ti enujuk en. Cacfo varik ko gohhat dato womulapip lo zupudgu ros jehucu puil atanisub cezpiudi et."
+  },
+  "apiKey": "7fab87e7008461c5fc24554e4939347ed273c3b903f36bd47413ac8ab68d8d64",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
