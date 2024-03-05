@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Park",
+  "age": 40,
+  "address": {
+    "street": "Jadud Key",
+    "city": "Pibperu",
+    "state": "IA",
+    "zip": "56892"
+  },
+  "contact": {
+    "phone": "(764) 848-3924",
+    "servicePhone": "800518775"
+  },
+  "birthday": "1973-12-20T06:41:33.688Z",
+  "ip": "248.184.211.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Budud hug peveowa unumajow we dafomhuw ukaakze pu zi suva zojolaz mifut cek vobapo. Cuhot vawanuj elukodwo zupto wi luara ej pahevan sit favfiwom hepnuona hilrizmuz. Ah pevaw ikufuzuk ol dob lurku iki hib hup viinuubu figaja eta cir ripecam hazko tonvehi.",
+    "bio": "Suutu rivgi ju ni otaricsa ri edgonzol upnir ohcu gur co bo hakbezeki epne eg. Ho lur gargomu evucu jesi ju amuniwlu fumkes nezhi iho geg ligkonni. Bom oz zif wi niviek abi uc ro juva has ifza inedujuna. Awerige ubeekedo ikromlol da rabew di li ini ni mimcagi letef vahkewnuk ko."
+  },
+  "apiKey": "5518e0cc6a71c19bfd8cf0d72b34df95805561d38e81efb6539ca1b4ec494f2d",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
