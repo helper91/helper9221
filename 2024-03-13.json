@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Wilson",
+  "age": 45,
+  "address": {
+    "street": "Deskaz Trail",
+    "city": "Anworaj",
+    "state": "AK",
+    "zip": "28786"
+  },
+  "contact": {
+    "phone": "(541) 654-2998",
+    "servicePhone": "800686241"
+  },
+  "birthday": "2004-12-13T19:58:47.528Z",
+  "ip": "235.78.229.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Nes cec fi ihe ligeropuh ec olo ketofa afabot emufo pibi bu. Ebborwoh owihile bokviap coc ohfifzuw bigzu co iw nimlut ivuede vi luh escucif zif naj nahceahi. Ufedobfa em oh las zissu ja kopa ersi hu zatze wajleume tuj panej.",
+    "bio": "Zedgaoh sagtapig wuina okudaof kujfi jihaf hotok afadip ihtuvroc vaef kug puj nujnec juotupa dis afukeg cefeaf. Fitopec bejo origrik pi vuw wakiw fovmuzlub hit ohilocsu jajkic do cigcecka aplu wekeis. Gopakir an ran ajotu sezejoof se dehumuj hopdi iretabo evu teruka jigmiz ricpuc."
+  },
+  "apiKey": "f9cb0022ce19175e3e3a364bfb4de49cc27f14fdafe2bdaaf8cfbda59a164d14",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
