@@ -1,0 +1,26 @@
+{
+  "name": "Joe Hanson",
+  "age": 29,
+  "address": {
+    "street": "Ravni Junction",
+    "city": "Araugrog",
+    "state": "AZ",
+    "zip": "77415"
+  },
+  "contact": {
+    "phone": "(528) 692-4793",
+    "servicePhone": "800531799"
+  },
+  "birthday": "1961-11-25T22:57:34.437Z",
+  "ip": "35.169.114.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Hirebwur bafi heb bihtod ucnaake cazo vikor wufujbo ef mairvol tujuf lizissuc. Eki tefreef ujniz welruc uvga ussudbic pij cejgu vedbufi keah naglodteg rozeh kewodi nip lobafez ocohu. Arawovhe eke degof nogi besoha gawbuhon kaf kabmajken az li kom fapaswez kah. Gu gerozmip cedmi cazuure abmof jon fiv wucav usuuweli sephu ecorec soafoevo.",
+    "bio": "Goub hato eji dibumez bujhas hif agwir omauv ri cuz fi dogosfip uvpor. Hokukhej upmuj fiav kedbosaj bufanti hij vithu abwetse jussun pojkis urta pehmekoh macwow. Ate tak nogcaso pulapu newuh pemkahdok mulema mozuw komco rutapfas su ves upu jawvopic wewiagu. Ewiomcu awe gabse vekos rulep bedsihep wunig wetosu cuspoh ovcazaj ahebofono ihsi jiij hepir. Vicu pooga rebzo ker ahuaviage atujusset kozfa piavereb bepwezbi vajge vej bujzufaz. Sicilun raj he nehuju ezalokob ema tarovat ami jekpi jieniko tic zo osoele migtopgu ukegiubo cuum."
+  },
+  "apiKey": "a60a150691607e197cf15f20b0e52bcba8f644f3828905f10432113a958e1ad2",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
