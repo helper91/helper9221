@@ -1,0 +1,26 @@
+{
+  "name": "Elizabeth Logan",
+  "age": 42,
+  "address": {
+    "street": "Hokma Place",
+    "city": "Ilbulit",
+    "state": "KS",
+    "zip": "92819"
+  },
+  "contact": {
+    "phone": "(602) 450-5193",
+    "servicePhone": "800429758"
+  },
+  "birthday": "1983-01-14T22:57:28.785Z",
+  "ip": "143.225.95.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Kervuma insaku palbopvej jikuwi irohi mijimij fof furebo kut buit bupew ganegej. Ho pufu sipara fowum futuljej top soap idva pujfu cuzev toj nugiefu. Atuus heurkov wo regapakoj udpa fenu nuc sihi heve hi ti egu jo totezta usiwew nikdi idujo. Kofoc ha ov hahefiv ugogu rufum diusu dikis epas obe fezamkoh jahuj fe gelop wowurur.",
+    "bio": "Wiluhteh huinume joij hibwih napona ukaca doz ne girot labuta zuijo fenla tesikebe cifbuc zukeg mugejji sadet cepunena. Ko itlu tahlad ed tuc aci momi pez julow kevce nekudofo taw ridmuser fewuv cucinbe vucnake. Cafjeiva acuvoma karnew wa suhikih mofwi fuzem tobma wuvcek uri zes cukelu bepbu dir wejzop idetopfo raeva kokamas."
+  },
+  "apiKey": "00516323c2cec5ede6b9204078bc8d7b80e0ee5db6cd79caf8c5292ec83c3bdd",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
