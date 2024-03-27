@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Bell",
+  "age": 47,
+  "address": {
+    "street": "Hiode Trail",
+    "city": "Jolupnet",
+    "state": "CO",
+    "zip": "96510"
+  },
+  "contact": {
+    "phone": "(954) 901-9645",
+    "servicePhone": "800551297"
+  },
+  "birthday": "1973-05-01T05:08:36.497Z",
+  "ip": "98.31.182.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Cufurtur umfimucu zabe sev mu fumohoecu femrembel kizdurup fi ge sihosvu sihidud rifo miwungel huvombo metepune. Hilobce po ati lap bi puctehup pe bobzog uv zuffe ofwapu durpi reup faj zacigguf vis fonfot nehtip. Wi pauzja eriujlu adiror dokule guh disiti di gicwu ba ciwwe keva socgudeg. Uhaen vol he laftiida helzo his tewrabot luudi veblom taoci mewmihbed ke jugme.",
+    "bio": "Lunakoz mor sucgegfa ralwedet ke oma je be epbofsi et segev pazmet eje. Himor atuvibku rur punmikek senjif vazzido wu ja pop zopuh sogi botvekuf mofon burihkek mottajceg. Zedip hic go wame sow na zo wotale fakdik isumiphus fubtikaw olo guhidu."
+  },
+  "apiKey": "a3875bcfd7750ceddf58acb7c210e1108200dc1530afc312d445eb44a861b002",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
